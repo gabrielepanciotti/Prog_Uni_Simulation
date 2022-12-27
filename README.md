@@ -17,4 +17,7 @@ Il terzo progetto svolto in C++, simula il funzionamento di un aeroporto e di tu
 Quest'ultimo era un lavoro di classe, ognuno doveva progettare e implementare una specifica zona dell'aeroporto, gestendo l'arrivo di passeggeri da altre zone e la partenza verso altre.
 
 In questo modo ogni zona era un oggetto separato, che gestiva in modo separato i passeggeri in transito ma comunicando con tutte le zone adiacenti per la completa simulazione del percorso dei passeggeri.
+
+Note:
+
 Purtroppo ho perso tutte le consegne di questi progetti, non essendo in un file scaricabile ma dentro la piattaforma dell'università, a cui non posso più accedere.
