@@ -1,0 +1,4451 @@
+Creation passadis
+Capacidad: 5
+Obj30#2 inicialitzat 
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:5
+Entity accepted ma not received:1
+===============
+===============
+Passadis: Obj30#2
+Event ePUSH: 5
+Time in passadis1: 490.000000
+Time in passadis: 490.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 5
+Capacidad actual: 4
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:4
+Entity accepted ma not received:1
+===============
+===============
+Passadis: Obj30#2
+Event ePUSH: 6
+Time in passadis1: 521.000000
+Time in passadis: 521.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 6
+Capacidad actual: 3
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:3
+Entity accepted ma not received:1
+===============
+===============
+Passadis: Obj30#2
+Event ePUSH: 15
+Time in passadis1: 498.000000
+Time in passadis: 498.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 15
+Capacidad actual: 2
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:2
+Entity accepted ma not received:1
+===============
+===============
+Passadis: Obj30#2
+Event ePUSH: 43
+Time in passadis1: 503.000000
+Time in passadis: 503.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 43
+Capacidad actual: 1
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:1
+Entity accepted ma not received:1
+===============
+===============
+Passadis: Obj30#2
+Event ePUSH: 63
+Time in passadis1: 520.000000
+Time in passadis: 520.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 63
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 5
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 5
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 503.000000
+Time in passadis: 503.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 15
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 15
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 528.000000
+Time in passadis: 528.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 515.000000
+Time in passadis: 515.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 43
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 43
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 535.000000
+Time in passadis: 535.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:0
+Entity accepted ma not received:-1
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 545.000000
+Time in passadis: 545.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 63
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 63
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 553.000000
+Time in passadis: 553.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis accept the entity
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#2
+The passadis NOT accept the entity
+ Emissore: Obj30#1
+Capacidad actual:0
+Entity accepted ma not received:0
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 6
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 6
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 542.000000
+Time in passadis: 542.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 540.000000
+Time in passadis: 540.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 541.000000
+Time in passadis: 541.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 545.000000
+Time in passadis: 545.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 572.000000
+Time in passadis: 572.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 556.000000
+Time in passadis: 556.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 562.000000
+Time in passadis: 562.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 559.000000
+Time in passadis: 559.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 572.000000
+Time in passadis: 572.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 584.000000
+Time in passadis: 584.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 577.000000
+Time in passadis: 577.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 570.000000
+Time in passadis: 570.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 591.000000
+Time in passadis: 591.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 603.000000
+Time in passadis: 603.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 597.000000
+Time in passadis: 597.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 579.000000
+Time in passadis: 579.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 587.000000
+Time in passadis: 587.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 615.000000
+Time in passadis: 615.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 612.000000
+Time in passadis: 612.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 626.000000
+Time in passadis: 626.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 598.000000
+Time in passadis: 598.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 624.000000
+Time in passadis: 624.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 622.000000
+Time in passadis: 622.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 638.000000
+Time in passadis: 638.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 640.000000
+Time in passadis: 640.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 643.000000
+Time in passadis: 643.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 632.000000
+Time in passadis: 632.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 647.000000
+Time in passadis: 647.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 657.000000
+Time in passadis: 657.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 661.000000
+Time in passadis: 661.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 668.000000
+Time in passadis: 668.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 661.000000
+Time in passadis: 661.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 668.000000
+Time in passadis: 668.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 671.000000
+Time in passadis: 671.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 691.000000
+Time in passadis: 691.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 676.000000
+Time in passadis: 676.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 703.000000
+Time in passadis: 703.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 677.000000
+Time in passadis: 677.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 704.000000
+Time in passadis: 704.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 707.000000
+Time in passadis: 707.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 706.000000
+Time in passadis: 706.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 703.000000
+Time in passadis: 703.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 716.000000
+Time in passadis: 716.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 712.000000
+Time in passadis: 712.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 736.000000
+Time in passadis: 736.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 725.000000
+Time in passadis: 725.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 716.000000
+Time in passadis: 716.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 721.000000
+Time in passadis: 721.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 724.000000
+Time in passadis: 724.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 720.000000
+Time in passadis: 720.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 730.000000
+Time in passadis: 730.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 739.000000
+Time in passadis: 739.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 746.000000
+Time in passadis: 746.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 750.000000
+Time in passadis: 750.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 748.000000
+Time in passadis: 748.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 746.000000
+Time in passadis: 746.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 765.000000
+Time in passadis: 765.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 778.000000
+Time in passadis: 778.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 776.000000
+Time in passadis: 776.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 758.000000
+Time in passadis: 758.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 763.000000
+Time in passadis: 763.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 793.000000
+Time in passadis: 793.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 775.000000
+Time in passadis: 775.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 799.000000
+Time in passadis: 799.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 789.000000
+Time in passadis: 789.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 810.000000
+Time in passadis: 810.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 805.000000
+Time in passadis: 805.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 810.000000
+Time in passadis: 810.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 824.000000
+Time in passadis: 824.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 825.000000
+Time in passadis: 825.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 826.000000
+Time in passadis: 826.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 826.000000
+Time in passadis: 826.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 842.000000
+Time in passadis: 842.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 859.000000
+Time in passadis: 859.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 857.000000
+Time in passadis: 857.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 858.000000
+Time in passadis: 858.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 848.000000
+Time in passadis: 848.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 846.000000
+Time in passadis: 846.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 863.000000
+Time in passadis: 863.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 857.000000
+Time in passadis: 857.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 871.000000
+Time in passadis: 871.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 874.000000
+Time in passadis: 874.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 870.000000
+Time in passadis: 870.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 885.000000
+Time in passadis: 885.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 891.000000
+Time in passadis: 891.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 895.000000
+Time in passadis: 895.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 905.000000
+Time in passadis: 905.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 890.000000
+Time in passadis: 890.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 906.000000
+Time in passadis: 906.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 918.000000
+Time in passadis: 918.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 898.000000
+Time in passadis: 898.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 925.000000
+Time in passadis: 925.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 907.000000
+Time in passadis: 907.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 923.000000
+Time in passadis: 923.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 940.000000
+Time in passadis: 940.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 928.000000
+Time in passadis: 928.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 950.000000
+Time in passadis: 950.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 937.000000
+Time in passadis: 937.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 931.000000
+Time in passadis: 931.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 942.000000
+Time in passadis: 942.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 961.000000
+Time in passadis: 961.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 961.000000
+Time in passadis: 961.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 955.000000
+Time in passadis: 955.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 972.000000
+Time in passadis: 972.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 982.000000
+Time in passadis: 982.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 982.000000
+Time in passadis: 982.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 978.000000
+Time in passadis: 978.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 967.000000
+Time in passadis: 967.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 982.000000
+Time in passadis: 982.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 981.000000
+Time in passadis: 981.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 992.000000
+Time in passadis: 992.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 992.000000
+Time in passadis: 992.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1008.000000
+Time in passadis: 1008.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 984.000000
+Time in passadis: 984.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1015.000000
+Time in passadis: 1015.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 993.000000
+Time in passadis: 993.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1022.000000
+Time in passadis: 1022.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 993.000000
+Time in passadis: 993.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1002.000000
+Time in passadis: 1002.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1004.000000
+Time in passadis: 1004.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1028.000000
+Time in passadis: 1028.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1011.000000
+Time in passadis: 1011.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1027.000000
+Time in passadis: 1027.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1017.000000
+Time in passadis: 1017.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1040.000000
+Time in passadis: 1040.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1052.000000
+Time in passadis: 1052.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1047.000000
+Time in passadis: 1047.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1036.000000
+Time in passadis: 1036.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1038.000000
+Time in passadis: 1038.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1039.000000
+Time in passadis: 1039.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1053.000000
+Time in passadis: 1053.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1055.000000
+Time in passadis: 1055.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1057.000000
+Time in passadis: 1057.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1069.000000
+Time in passadis: 1069.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1057.000000
+Time in passadis: 1057.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1085.000000
+Time in passadis: 1085.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1084.000000
+Time in passadis: 1084.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1083.000000
+Time in passadis: 1083.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1087.000000
+Time in passadis: 1087.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1077.000000
+Time in passadis: 1077.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1081.000000
+Time in passadis: 1081.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1093.000000
+Time in passadis: 1093.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1102.000000
+Time in passadis: 1102.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1118.000000
+Time in passadis: 1118.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1118.000000
+Time in passadis: 1118.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1116.000000
+Time in passadis: 1116.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1097.000000
+Time in passadis: 1097.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1124.000000
+Time in passadis: 1124.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1129.000000
+Time in passadis: 1129.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1139.000000
+Time in passadis: 1139.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1146.000000
+Time in passadis: 1146.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1129.000000
+Time in passadis: 1129.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1129.000000
+Time in passadis: 1129.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1164.000000
+Time in passadis: 1164.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1161.000000
+Time in passadis: 1161.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1161.000000
+Time in passadis: 1161.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1149.000000
+Time in passadis: 1149.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1176.000000
+Time in passadis: 1176.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1170.000000
+Time in passadis: 1170.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1165.000000
+Time in passadis: 1165.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1183.000000
+Time in passadis: 1183.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1197.000000
+Time in passadis: 1197.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1168.000000
+Time in passadis: 1168.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1179.000000
+Time in passadis: 1179.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1195.000000
+Time in passadis: 1195.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1201.000000
+Time in passadis: 1201.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1206.000000
+Time in passadis: 1206.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1216.000000
+Time in passadis: 1216.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1210.000000
+Time in passadis: 1210.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+===============
+Passadis: Obj30#2
+Event ePUSH: 71
+Time in passadis1: 1229.000000
+Time in passadis: 1229.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 71
+State FULL
+Destino: Obj48
+===============
+===============
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 71
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj30#1
+Obj30#2 Estadísticas Passsadis N.20 
+ Numero de pasajeros que han pasado por el passadis: 181
+ Numero máximo de pasajeros en el passadis: 5
+ Numero medio de pasajeros en el passadis: 2.254190
+ Tiempo maximo de un pasajero en el passadis: 1229.000000
+ Tiempo medio de un pasajero en el passadis: 857.591187
+ Numero de pasajeros pendientes en total: 0
+ Numero de pasajeros pendientes maximo: 0
+ Numero de veces que el passadis se ha puesto FULL: 177
+ Numero de veces que el passadis llamó SendMeNow: 0

@@ -1,0 +1,1 @@
+#include "CPassadis20Object.h"

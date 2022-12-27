@@ -1,0 +1,1551 @@
+Creation passadis
+Capacidad: 40
+Creation passadis
+Capacidad: 40
+Obj30#1 inicialitzat 
+Obj30#2 inicialitzat 
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:39
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:38
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:37
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:36
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:35
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:34
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:33
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:32
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:31
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:30
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:29
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:28
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:27
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:26
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:25
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:24
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:23
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:22
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:21
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:20
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:19
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:18
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:17
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:16
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:15
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:14
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:13
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:12
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:11
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:10
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:9
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:8
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:7
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:6
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:5
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:4
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:3
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:2
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:1
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:0
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: 91
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 40
+Time in passadis1: 501.000000
+Time in passadis: 501.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 40
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 40
+State FULL
+===============
+Passadis: Obj30#2
+Event ePUSH: 40
+Time in passadis1: 517.000000
+Time in passadis: 517.000000
+Passadis Obj30#2 Programo un eSERVICE per a l'entitat 40
+===============
+===============
+Passadis: Obj30#2
+Event eSERVICE: 40
+Passadis Obj30#2 Programo un ePUSH per a l'entitat 40
+N. passengers actual: 0
+===============
+Obj30#1 Estadísticas Passsadis N.20 
+ Numero de pasajeros que han pasado por el passadis: 1
+ Numero máximo de pasajeros en el passadis: 40
+ Numero medio de pasajeros en el passadis: 20.000000
+ Tiempo maximo de un pasajero en el passadis: 501.000000
+ Tiempo medio de un pasajero en el passadis: 501.000000
+ Numero de pasajeros pendientes en total: 0
+ Numero de pasajeros pendientes maximo: 0
+ Numero de veces que el passadis se ha puesto FULL: 1
+ Numero de veces que el passadis llamó SendMeNow: 0
+Obj30#2 Estadísticas Passsadis N.20 
+ Numero de pasajeros que han pasado por el passadis: 1
+ Numero máximo de pasajeros en el passadis: 1
+ Numero medio de pasajeros en el passadis: 0.500000
+ Tiempo maximo de un pasajero en el passadis: 517.000000
+ Tiempo medio de un pasajero en el passadis: 517.000000
+ Numero de pasajeros pendientes en total: 0
+ Numero de pasajeros pendientes maximo: 0
+ Numero de veces que el passadis se ha puesto FULL: 0
+ Numero de veces que el passadis llamó SendMeNow: 0

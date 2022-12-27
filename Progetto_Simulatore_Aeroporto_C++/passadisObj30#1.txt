@@ -1,0 +1,4721 @@
+Creation passadis
+Capacidad: 100
+Obj30#1 inicialitzat 
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:1
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:2
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:3
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:4
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:5
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:6
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:7
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:8
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:9
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:10
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:11
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:12
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:13
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:14
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:15
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:16
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:17
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:18
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:19
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:20
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:21
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:22
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:23
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:24
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:25
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:26
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:27
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:28
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:29
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:30
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:31
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:32
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:33
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:34
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:35
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:36
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:37
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:38
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:39
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:40
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:41
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:42
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:43
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:44
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:45
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:46
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:47
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:48
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:49
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:50
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:51
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:52
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:53
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:54
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:55
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:56
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:57
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:58
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:59
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:60
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:61
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:62
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:63
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:64
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:65
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:66
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:67
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:68
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:69
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:70
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:71
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:72
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:73
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:74
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:75
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:76
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:77
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:78
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:79
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:80
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:81
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:82
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:83
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:84
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:85
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:86
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:87
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:88
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:89
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:90
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:91
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:92
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:93
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:94
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:95
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:96
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:97
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:98
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:99
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis accept the entity
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+=======ACCEPTENTITY========
+Passadis: Obj30#1
+The passadis NOT accept the entity
+ Emissore: Obj18
+Capacidad actual:100
+Entity accepted ma not received:100
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 100
+Time in passadis1: 505.000000
+Time in passadis: 505.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 100
+Capacidad actual: 99
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 99
+Time in passadis1: 518.000000
+Time in passadis: 518.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 99
+Capacidad actual: 98
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 98
+Time in passadis1: 516.000000
+Time in passadis: 516.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 98
+Capacidad actual: 97
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 97
+Time in passadis1: 520.000000
+Time in passadis: 520.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 97
+Capacidad actual: 96
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 96
+Time in passadis1: 511.000000
+Time in passadis: 511.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 96
+Capacidad actual: 95
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 95
+Time in passadis1: 510.000000
+Time in passadis: 510.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 95
+Capacidad actual: 94
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 94
+Time in passadis1: 487.000000
+Time in passadis: 487.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 94
+Capacidad actual: 93
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 93
+Time in passadis1: 508.000000
+Time in passadis: 508.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 93
+Capacidad actual: 92
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 92
+Time in passadis1: 490.000000
+Time in passadis: 490.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 92
+Capacidad actual: 91
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 91
+Time in passadis1: 512.000000
+Time in passadis: 512.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 91
+Capacidad actual: 90
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 90
+Time in passadis1: 516.000000
+Time in passadis: 516.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 90
+Capacidad actual: 89
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 89
+Time in passadis1: 507.000000
+Time in passadis: 507.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 89
+Capacidad actual: 88
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 88
+Time in passadis1: 490.000000
+Time in passadis: 490.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 88
+Capacidad actual: 87
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 87
+Time in passadis1: 507.000000
+Time in passadis: 507.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 87
+Capacidad actual: 86
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 86
+Time in passadis1: 513.000000
+Time in passadis: 513.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 86
+Capacidad actual: 85
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 85
+Time in passadis1: 509.000000
+Time in passadis: 509.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 85
+Capacidad actual: 84
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 84
+Time in passadis1: 503.000000
+Time in passadis: 503.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 84
+Capacidad actual: 83
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 83
+Time in passadis1: 504.000000
+Time in passadis: 504.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 83
+Capacidad actual: 82
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 82
+Time in passadis1: 504.000000
+Time in passadis: 504.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 82
+Capacidad actual: 81
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 81
+Time in passadis1: 493.000000
+Time in passadis: 493.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 81
+Capacidad actual: 80
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 80
+Time in passadis1: 509.000000
+Time in passadis: 509.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 80
+Capacidad actual: 79
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 79
+Time in passadis1: 519.000000
+Time in passadis: 519.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 79
+Capacidad actual: 78
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 78
+Time in passadis1: 509.000000
+Time in passadis: 509.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 78
+Capacidad actual: 77
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 77
+Time in passadis1: 496.000000
+Time in passadis: 496.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 77
+Capacidad actual: 76
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 76
+Time in passadis1: 488.000000
+Time in passadis: 488.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 76
+Capacidad actual: 75
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 75
+Time in passadis1: 497.000000
+Time in passadis: 497.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 75
+Capacidad actual: 74
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 74
+Time in passadis1: 511.000000
+Time in passadis: 511.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 74
+Capacidad actual: 73
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 73
+Time in passadis1: 501.000000
+Time in passadis: 501.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 73
+Capacidad actual: 72
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 72
+Time in passadis1: 516.000000
+Time in passadis: 516.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 72
+Capacidad actual: 71
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 71
+Time in passadis1: 486.000000
+Time in passadis: 486.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 71
+Capacidad actual: 70
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 70
+Time in passadis1: 503.000000
+Time in passadis: 503.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 70
+Capacidad actual: 69
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 69
+Time in passadis1: 503.000000
+Time in passadis: 503.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 69
+Capacidad actual: 68
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 68
+Time in passadis1: 501.000000
+Time in passadis: 501.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 68
+Capacidad actual: 67
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 67
+Time in passadis1: 491.000000
+Time in passadis: 491.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 67
+Capacidad actual: 66
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 66
+Time in passadis1: 494.000000
+Time in passadis: 494.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 66
+Capacidad actual: 65
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 65
+Time in passadis1: 496.000000
+Time in passadis: 496.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 65
+Capacidad actual: 64
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 64
+Time in passadis1: 498.000000
+Time in passadis: 498.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 64
+Capacidad actual: 63
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 63
+Time in passadis1: 486.000000
+Time in passadis: 486.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 63
+Capacidad actual: 62
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 62
+Time in passadis1: 519.000000
+Time in passadis: 519.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 62
+Capacidad actual: 61
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 61
+Time in passadis1: 498.000000
+Time in passadis: 498.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 61
+Capacidad actual: 60
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 60
+Time in passadis1: 520.000000
+Time in passadis: 520.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 60
+Capacidad actual: 59
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 59
+Time in passadis1: 520.000000
+Time in passadis: 520.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 59
+Capacidad actual: 58
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 58
+Time in passadis1: 489.000000
+Time in passadis: 489.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 58
+Capacidad actual: 57
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 57
+Time in passadis1: 511.000000
+Time in passadis: 511.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 57
+Capacidad actual: 56
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 56
+Time in passadis1: 506.000000
+Time in passadis: 506.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 56
+Capacidad actual: 55
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 55
+Time in passadis1: 502.000000
+Time in passadis: 502.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 55
+Capacidad actual: 54
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 54
+Time in passadis1: 518.000000
+Time in passadis: 518.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 54
+Capacidad actual: 53
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 53
+Time in passadis1: 515.000000
+Time in passadis: 515.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 53
+Capacidad actual: 52
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 52
+Time in passadis1: 512.000000
+Time in passadis: 512.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 52
+Capacidad actual: 51
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 51
+Time in passadis1: 505.000000
+Time in passadis: 505.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 51
+Capacidad actual: 50
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 50
+Time in passadis1: 488.000000
+Time in passadis: 488.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 50
+Capacidad actual: 49
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 49
+Time in passadis1: 507.000000
+Time in passadis: 507.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 49
+Capacidad actual: 48
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 48
+Time in passadis1: 487.000000
+Time in passadis: 487.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 48
+Capacidad actual: 47
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 47
+Time in passadis1: 497.000000
+Time in passadis: 497.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 47
+Capacidad actual: 46
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 46
+Time in passadis1: 495.000000
+Time in passadis: 495.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 46
+Capacidad actual: 45
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 45
+Time in passadis1: 507.000000
+Time in passadis: 507.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 45
+Capacidad actual: 44
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 44
+Time in passadis1: 505.000000
+Time in passadis: 505.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 44
+Capacidad actual: 43
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 43
+Time in passadis1: 486.000000
+Time in passadis: 486.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 43
+Capacidad actual: 42
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 42
+Time in passadis1: 489.000000
+Time in passadis: 489.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 42
+Capacidad actual: 41
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 41
+Time in passadis1: 520.000000
+Time in passadis: 520.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 41
+Capacidad actual: 40
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 40
+Time in passadis1: 497.000000
+Time in passadis: 497.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 40
+Capacidad actual: 39
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 39
+Time in passadis1: 493.000000
+Time in passadis: 493.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 39
+Capacidad actual: 38
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 38
+Time in passadis1: 516.000000
+Time in passadis: 516.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 38
+Capacidad actual: 37
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 37
+Time in passadis1: 489.000000
+Time in passadis: 489.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 37
+Capacidad actual: 36
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 36
+Time in passadis1: 501.000000
+Time in passadis: 501.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 36
+Capacidad actual: 35
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 35
+Time in passadis1: 499.000000
+Time in passadis: 499.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 35
+Capacidad actual: 34
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 34
+Time in passadis1: 514.000000
+Time in passadis: 514.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 34
+Capacidad actual: 33
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 33
+Time in passadis1: 514.000000
+Time in passadis: 514.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 33
+Capacidad actual: 32
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 32
+Time in passadis1: 515.000000
+Time in passadis: 515.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 32
+Capacidad actual: 31
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 31
+Time in passadis1: 495.000000
+Time in passadis: 495.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 31
+Capacidad actual: 30
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 30
+Time in passadis1: 512.000000
+Time in passadis: 512.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 30
+Capacidad actual: 29
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 29
+Time in passadis1: 517.000000
+Time in passadis: 517.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 29
+Capacidad actual: 28
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 28
+Time in passadis1: 510.000000
+Time in passadis: 510.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 28
+Capacidad actual: 27
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 27
+Time in passadis1: 509.000000
+Time in passadis: 509.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 27
+Capacidad actual: 26
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 26
+Time in passadis1: 501.000000
+Time in passadis: 501.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 26
+Capacidad actual: 25
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 25
+Time in passadis1: 506.000000
+Time in passadis: 506.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 25
+Capacidad actual: 24
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 24
+Time in passadis1: 514.000000
+Time in passadis: 514.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 24
+Capacidad actual: 23
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 23
+Time in passadis1: 494.000000
+Time in passadis: 494.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 23
+Capacidad actual: 22
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 22
+Time in passadis1: 492.000000
+Time in passadis: 492.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 22
+Capacidad actual: 21
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 21
+Time in passadis1: 503.000000
+Time in passadis: 503.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 21
+Capacidad actual: 20
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 20
+Time in passadis1: 510.000000
+Time in passadis: 510.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 20
+Capacidad actual: 19
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 19
+Time in passadis1: 505.000000
+Time in passadis: 505.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 19
+Capacidad actual: 18
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 18
+Time in passadis1: 487.000000
+Time in passadis: 487.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 18
+Capacidad actual: 17
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 17
+Time in passadis1: 496.000000
+Time in passadis: 496.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 17
+Capacidad actual: 16
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 16
+Time in passadis1: 499.000000
+Time in passadis: 499.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 16
+Capacidad actual: 15
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 15
+Time in passadis1: 486.000000
+Time in passadis: 486.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 15
+Capacidad actual: 14
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 14
+Time in passadis1: 509.000000
+Time in passadis: 509.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 14
+Capacidad actual: 13
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 13
+Time in passadis1: 501.000000
+Time in passadis: 501.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 13
+Capacidad actual: 12
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 12
+Time in passadis1: 514.000000
+Time in passadis: 514.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 12
+Capacidad actual: 11
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 11
+Time in passadis1: 520.000000
+Time in passadis: 520.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 11
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 10
+Time in passadis1: 488.000000
+Time in passadis: 488.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 10
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 9
+Time in passadis1: 496.000000
+Time in passadis: 496.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 9
+Capacidad actual: 8
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 8
+Time in passadis1: 515.000000
+Time in passadis: 515.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 8
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 7
+Time in passadis1: 515.000000
+Time in passadis: 515.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 7
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 6
+Time in passadis1: 486.000000
+Time in passadis: 486.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 6
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 5
+Time in passadis1: 486.000000
+Time in passadis: 486.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 5
+Capacidad actual: 4
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 4
+Time in passadis1: 516.000000
+Time in passadis: 516.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 4
+Capacidad actual: 3
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 3
+Time in passadis1: 492.000000
+Time in passadis: 492.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 3
+Capacidad actual: 2
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 2
+Time in passadis1: 493.000000
+Time in passadis: 493.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 2
+Capacidad actual: 1
+===============
+===============
+Passadis: Obj30#1
+Event ePUSH: 1
+Time in passadis1: 513.000000
+Time in passadis: 513.000000
+Passadis Obj30#1 Programo un eSERVICE per a l'entitat 1
+Capacidad actual: 0
+ Passadis: esta ple
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 5
+State FULL
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 5
+Capacidad actual: 1
+Send Me Now invocated
+===============
+idle:Obj18
+===============
+Passadis: Obj30#1
+Event eSERVICE: 6
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 6
+Capacidad actual: 2
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 15
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 15
+Capacidad actual: 3
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 43
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 43
+Capacidad actual: 4
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 63
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 63
+Capacidad actual: 5
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 71
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 71
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 18
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 18
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 48
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 48
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 94
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 94
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 10
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 10
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 50
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 50
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 76
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 76
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 37
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 37
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 42
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 42
+Capacidad actual: 5
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 58
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 58
+Capacidad actual: 5
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 88
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 88
+Capacidad actual: 6
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 92
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 92
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 67
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 67
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 3
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 3
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 22
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 22
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 2
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 2
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 39
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 39
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 81
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 81
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 23
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 23
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 66
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 66
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 31
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 31
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 46
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 46
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 9
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 9
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 17
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 17
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 65
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 65
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 77
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 77
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 40
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 40
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 47
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 47
+Capacidad actual: 6
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 75
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 75
+Capacidad actual: 6
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 61
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 61
+Capacidad actual: 7
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 64
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 64
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 16
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 16
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 35
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 35
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 13
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 13
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 26
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 26
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 36
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 36
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 68
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 68
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 73
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 73
+Capacidad actual: 7
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 55
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 55
+Capacidad actual: 7
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 21
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 21
+Capacidad actual: 8
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 69
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 69
+Capacidad actual: 9
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 70
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 70
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 84
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 84
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 82
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 82
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 83
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 83
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 19
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 19
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 44
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 44
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 51
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 51
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 100
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 100
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 25
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 25
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 56
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 56
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 45
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 45
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 49
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 49
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 87
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 87
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 89
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 89
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 93
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 93
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 14
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 14
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 27
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 27
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 78
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 78
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 80
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 80
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 85
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 85
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 20
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 20
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 28
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 28
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 95
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 95
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 57
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 57
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 74
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 74
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 96
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 96
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 30
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 30
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 52
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 52
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 91
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 91
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 1
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 1
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 86
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 86
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 12
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 12
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 24
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 24
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 33
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 33
+Capacidad actual: 9
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 34
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 34
+Capacidad actual: 9
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 7
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 7
+Capacidad actual: 10
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 8
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 8
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 32
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 32
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 53
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 53
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 4
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 4
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 38
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 38
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 72
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 72
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 90
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 90
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 98
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 98
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 29
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 29
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 54
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 54
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 99
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 99
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 62
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 62
+Capacidad actual: 10
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 79
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 79
+Capacidad actual: 10
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 11
+Destino: Obj30#2
+===============
+===============
+Passadis Obj30#1 Programo un ePUSH per a l'entitat 11
+Capacidad actual: 11
+===============
+pendiente:Obj18
+Send Me Now invocated
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 41
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 41
+Capacidad actual: 11
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 59
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 59
+Capacidad actual: 11
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 60
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 60
+Capacidad actual: 11
+===============
+===============
+Passadis: Obj30#1
+Event eSERVICE: 97
+Destino: Obj30#2
+===============
+===============
+Entity NOT accepted
+Passanger pendiente: 97
+Capacidad actual: 11
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+=======SENDMENOW========
+Passadis: Obj30#1
+The receiverObj30#2call SendMeNow
+Passenger push:71
+===============
+Obj30#1 Estadísticas Passsadis N.20 
+ Numero de pasajeros que han pasado por el passadis: 100
+ Numero máximo de pasajeros en el passadis: 100
+ Numero medio de pasajeros en el passadis: 45.495495
+ Tiempo maximo de un pasajero en el passadis: 520.000000
+ Tiempo medio de un pasajero en el passadis: 503.410004
+ Numero de pasajeros pendientes en total: 89
+ Numero de pasajeros pendientes maximo: 83
+ Numero de veces que el passadis se ha puesto FULL: 1
+ Numero de veces que el passadis llamó SendMeNow: 177
